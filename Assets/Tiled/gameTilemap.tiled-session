@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TilemapGame/Pond.tmx",
+    "expandedProjectPaths": [
+        "TilemapGame",
+        "TilemapGame/kenney_tiny-battle",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/TilemapGame/Pond.tmx": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 67.75,
+                "y": 14.125
+            }
+        },
+        "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/TilemapGame/TinyBattle_Tilesheet.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "TilemapGame/Pond.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 80.18181818181817,
+                "y": 17.909090909090914
+            }
+        },
+        "TilemapGame/TinyBattle_Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        }
+    },
+    "last.imagePath": "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/TilemapGame/kenney_tiny-battle/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "TilemapGame/Pond.tmx",
+        "TilemapGame/TinyBattle_Tilesheet.tsx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "TilemapGame/TinyBattle_Tilesheet.tsx",
+        "TilemapGame/Pond.tmx",
+        "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/TilemapGame/TinyBattle_Tilesheet.tsx",
+        "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/TilemapGame/Pond.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
