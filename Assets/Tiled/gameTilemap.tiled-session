@@ -5,9 +5,9 @@
     },
     "activeFile": "TilemapGame/Pond.tmx",
     "expandedProjectPaths": [
-        "TilemapGame",
+        ".",
         "TilemapGame/kenney_tiny-battle",
-        "."
+        "TilemapGame"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -27,8 +27,8 @@
             "scale": 5.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 80.18181818181817,
-                "y": 17.909090909090914
+                "x": 80.18181818181819,
+                "y": 17.909090909090907
             }
         },
         "TilemapGame/TinyBattle_Tilesheet.tsx": {
