@@ -3,11 +3,9 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "TilemapGame/Pond.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
-        ".",
-        "TilemapGame/kenney_tiny-battle",
-        "TilemapGame"
+        "TilemapGame/kenney_tiny-battle"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -42,8 +40,6 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
-        "TilemapGame/Pond.tmx",
-        "TilemapGame/TinyBattle_Tilesheet.tsx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
