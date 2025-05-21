@@ -3,9 +3,17 @@
         "height": 4300,
         "width": 2
     },
+<<<<<<< Updated upstream
     "activeFile": "",
     "expandedProjectPaths": [
         "TilemapGame/kenney_tiny-battle"
+=======
+    "activeFile": "TilemapGame/TinyDungeon_Tilesheet.tsx",
+    "expandedProjectPaths": [
+        "TilemapGame/kenney_tiny-battle",
+        "TilemapGame",
+        "."
+>>>>>>> Stashed changes
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -25,26 +33,62 @@
             "scale": 5.5,
             "selectedLayer": 2,
             "viewCenter": {
+<<<<<<< Updated upstream
                 "x": 80.18181818181819,
                 "y": 17.909090909090907
+=======
+                "x": 145.63636363636365,
+                "y": 47.36363636363637
+>>>>>>> Stashed changes
             }
         },
         "TilemapGame/TinyBattle_Tilesheet.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 3
+        },
+        "TilemapGame/TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "TilemapGame/bouncy_wall.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 79.5,
+                "y": 162.25
+            }
+        },
+        "TilemapGame/physics_box.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 93.5,
+                "y": 141.25
+            }
         }
     },
-    "last.imagePath": "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/TilemapGame/kenney_tiny-battle/Tilemap",
+    "last.imagePath": "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/Tiled/TilemapGame/kenney_tiny-dungeon/Tilemap",
     "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+<<<<<<< Updated upstream
+=======
+        "TilemapGame/Pond.tmx",
+        "TilemapGame/TinyBattle_Tilesheet.tsx",
+        "TilemapGame/physics_box.tmx",
+        "TilemapGame/TinyDungeon_Tilesheet.tsx",
+        "TilemapGame/bouncy_wall.tmx"
+>>>>>>> Stashed changes
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
-        "TilemapGame/TinyBattle_Tilesheet.tsx",
         "TilemapGame/Pond.tmx",
+        "TilemapGame/TinyBattle_Tilesheet.tsx",
+        "TilemapGame/physics_box.tmx",
+        "TilemapGame/bouncy_wall.tmx",
+        "TilemapGame/TinyDungeon_Tilesheet.tsx",
         "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/TilemapGame/TinyBattle_Tilesheet.tsx",
         "C:/Users/aaron/Desktop/COMP1151/comp1151prac-tilemapgame-Aaron-Pang/Assets/TilemapGame/Pond.tmx"
     ],
