@@ -42,4 +42,14 @@
    </object>
   </objectgroup>
  </tile>
+ <tile id="70">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="1" y="0" width="14" height="16">
+    <properties>
+     <property name="unity:IsTrigger" value="true"/>
+     <property name="unity:layer" value="Hazard"/>
+    </properties>
+   </object>
+  </objectgroup>
+ </tile>
 </tileset>
