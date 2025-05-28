@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: CameraManager
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":60.0},"zoom":1.0,"elements":[{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"confinerEntered","$type":"System.String"}},"position":{"x":-108.0,"y":-192.0},"guid":"708efed3-d8b8-41e7-9f74-a987982fba16","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"chainable":false,"member":{"name":"enabled","parameterTypes":null,"targetType":"Unity.Cinemachine.CinemachineCamera","targetTypeName":"Unity.Cinemachine.CinemachineCamera","$version":"A"},"defaultValues":{"target":null,"input":{"$content":true,"$type":"System.Boolean"}},"position":{"x":189.0,"y":-199.0},"guid":"704866f3-f6b8-433c-a45b-373d375f72b7","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"11"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"confinerCam","$type":"System.String"},"object":null},"position":{"x":-99.0,"y":-21.0},"guid":"844c5320-8fc6-4489-aff2-f97406542be1","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"14"},{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"confinerExited","$type":"System.String"}},"position":{"x":-96.0,"y":163.0},"guid":"1e25af39-8cf7-4396-b779-58e39fbae1db","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"16"},{"chainable":false,"member":{"name":"enabled","parameterTypes":null,"targetType":"Unity.Cinemachine.CinemachineCamera","targetTypeName":"Unity.Cinemachine.CinemachineCamera","$version":"A"},"defaultValues":{"target":null,"input":{"$content":false,"$type":"System.Boolean"}},"position":{"x":201.0,"y":156.0},"guid":"4d382120-9af4-40ba-8329-851ca8c6923c","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"18"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"confinerCam","$type":"System.String"},"object":null},"position":{"x":-87.0,"y":334.0},"guid":"8889303a-4cc9-43ff-be3a-9c51f402be02","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"21"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"fc2e4ec1-b344-4b4d-a4ac-969bab58b661","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"trigger","destinationUnit":{"$ref":"18"},"destinationKey":"assign","guid":"688c2700-cf98-4957-a0a4-cdc361bd4638","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"target","guid":"4c6311cf-2331-4589-a6a3-5ce069d82209","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"value","destinationUnit":{"$ref":"18"},"destinationKey":"target","guid":"22e08be0-46c8-4367-84c1-27f6833c3822","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
